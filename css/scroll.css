@@ -1,0 +1,43 @@
+/* Custom Scrollbar */
+
+html,
+body {
+  scrollbar-face-color: #123565;
+  scrollbar-base-color: #123565;
+  scrollbar-3dlight-color: #123565;
+  scrollbar-highlight-color: #123565;
+  scrollbar-track-color: #000;
+  scrollbar-arrow-color: #000;
+  scrollbar-shadow-color: #123565;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 3px;
+}
+
+::-webkit-scrollbar-button {
+  background-color: #123565;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #123565;
+}
+
+::-webkit-scrollbar-track-piece {
+  background-color: #000;
+}
+
+::-webkit-scrollbar-thumb {
+  height: 50px;
+  background-color: #123565;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-corner {
+  background-color: #123565;
+}
+
+::-webkit-resizer {
+  background-color: #123565;
+}
