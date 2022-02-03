@@ -4,59 +4,70 @@
   border: 3px solid #dae400;
 }
 
-.administrator {
-  border: 3px solid #2ecc71;
+.amm {
+  border: 3px solid #ff9666;
 }
 
-.co-manager {
-  border: 3px solid #d6680e;
+.helper {
+  border: 3px solid #17ac86;
 }
 
-.supervisor {
-  border: 3px solid #ffa8fb;
+.gestorehelper {
+  border: 3px solid #5dfff7;
 }
 
-.manager {
+.op {
+  border: 3px solid #93bfe6;
+}
+
+
+.owner {
   border: 3px solid #ff1d1d;
 }
 
-.ceo {
+.founder {
   border: 3px solid #ff1d1d;
 }
 
 /* Custom Staff Tags */
 
 .tag.is-moderator {
-  background-color: #dae400;
+  background-color: #b89fff;
   text-shadow: #222222 3px 3px 3px;
   color: #fff;
 }
 
-.tag.is-administrator {
-  background-color: #2ecc71;
+.tag.is-amm {
+  background-color: #ff9666;
   text-shadow: #222222 3px 3px 3px;
   color: #fff;
 }
 
-.tag.is-co-manager {
-  background-color: #d6680e;
+.tag.is-helper {
+  background-color: #17ac86;
   text-shadow: #222222 3px 3px 3px;
   color: #fff;
 }
 
-.tag.is-supervisor {
-  background-color: #ffa8fb;
+.tag.is-gestorehelper {
+  background-color: #5dfff7;
   text-shadow: #222222 3px 3px 3px;
   color: #fff;
 }
 
-.tag.is-manager {
+.tag.is-op {
+  background-color: #93bfe6;
+  text-shadow: #222222 3px 3px 3px;
+  color: #fff;
+}
+
+.tag.is-owner {
   background-color: #ff1d1d;
   text-shadow: #222222 3px 3px 3px;
   color: #fff;
 }
 
-.tag.is-ceo {
+.tag.is-founder {
   background-color: #ff1d1d;
   text-shadow: #021310 3px 3px 3px;
   color: #fff;
