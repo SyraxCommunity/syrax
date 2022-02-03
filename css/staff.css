@@ -1,7 +1,7 @@
 /* Staff Image Styling */
 
 .moderator {
-  border: 3px solid #dae400;
+  border: 3px solid #b89fff;
 }
 
 .amm {
@@ -26,7 +26,7 @@
 }
 
 .founder {
-  border: 3px solid #ff1d1d;
+  border: 3px solid #5329f1;
 }
 
 /* Custom Staff Tags */
@@ -68,7 +68,7 @@
 }
 
 .tag.is-founder {
-  background-color: #ff1d1d;
+  background-color: #5329f1;
   text-shadow: #021310 3px 3px 3px;
   color: #fff;
 }
